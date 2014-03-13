@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?><gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+<image>
+  <url>images/1.jpg</url>
+  <caption></caption>
+  <width>815</width>
+  <height>579</height>
+</image>
+
+<image>
+  <url>images/2.jpg</url>
+  <caption></caption>
+  <width>819</width>
+  <height>600</height>
+</image>
+
+<image>
+  <url>images/3.jpg</url>
+  <caption></caption>
+  <width>636</width>
+  <height>483</height>
+</image>
+
+<image>
+  <url>images/4.jpg</url>
+  <caption></caption>
+  <width>839</width>
+  <height>591</height>
+</image>
+
+<image>
+  <url>images/5.jpg</url>
+  <caption></caption>
+  <width>748</width>
+  <height>551</height>
+</image>
+</gallery>

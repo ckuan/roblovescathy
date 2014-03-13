@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "740" maxImageHeight = "740" textColor = "0xffffff" frameColor = "0xffffff" frameWidth = "20" stagePadding = "40" thumbnailColumns = "5" thumbnailRows = "1" navPosition = "bottom" title = "" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>1.jpg</filename>
+</image>
+<image>
+	<filename>2.jpg</filename>
+</image>
+<image>
+	<filename>3.jpg</filename>
+</image>
+<image>
+	<filename>4.jpg</filename>
+</image>
+<image>
+	<filename>5.jpg</filename>
+</image>
+<image>
+	<filename>6.jpg</filename>
+</image>
+<image>
+	<filename>10.jpg</filename>
+</image>
+<image>
+	<filename>7.jpg</filename>
+</image>
+<image>
+	<filename>8.jpg</filename>
+</image>
+<image>
+	<filename>9.jpg</filename>
+</image>
+<image>
+	<filename>11.jpg</filename>
+</image>
+<image>
+	<filename>12.jpg</filename>
+</image>
+<image>
+	<filename>13.jpg</filename>
+</image>
+<image>
+	<filename>14.jpg</filename>
+</image>
+<image>
+	<filename>15.jpg</filename>
+</image>
+<image>
+	<filename>16p.jpg</filename>
+</image>
+<image>
+	<filename>17p.jpg</filename>
+</image>
+<image>
+	<filename>18p.jpg</filename>
+</image>
+<image>
+	<filename>19.jpg</filename>
+</image>
+<image>
+	<filename>20.jpg</filename>
+</image>
+<image>
+	<filename>21p.jpg</filename>
+</image>
+<image>
+	<filename>22p.jpg</filename>
+</image>
+<image>
+	<filename>23p.jpg</filename>
+</image>
+<image>
+	<filename>24p.jpg</filename>
+</image>
+<image>
+	<filename>25p.jpg</filename>
+</image>
+<image>
+	<filename>26p.jpg</filename>
+</image>
+<image>
+	<filename>27p.jpg</filename>
+</image>
+<image>
+	<filename>28p.jpg</filename>
+</image>
+<image>
+	<filename>29p.jpg</filename>
+</image>
+<image>
+	<filename>30p.jpg</filename>
+</image>
+<image>
+	<filename>31p.jpg</filename>
+</image>
+<image>
+	<filename>32p.jpg</filename>
+</image>
+<image>
+	<filename>33.jpg</filename>
+</image>
+<image>
+	<filename>34.jpg</filename>
+</image>
+<image>
+	<filename>35p.jpg</filename>
+</image>
+<image>
+	<filename>36p.jpg</filename>
+</image>
+<image>
+	<filename>37p.jpg</filename>
+</image>
+<image>
+	<filename>38p.jpg</filename>
+</image>
+<image>
+	<filename>39p.jpg</filename>
+</image>
+<image>
+	<filename>40p.jpg</filename>
+</image>
+</simpleviewerGallery>
